@@ -19,4 +19,6 @@ AmigosCode: Getting Started With Spring Boot
 
 AmigosCode: Relational Database and SQL Essentials
 
+AmigosCode: Java Functional Programming
+
 
