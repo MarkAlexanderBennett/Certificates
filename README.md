@@ -21,4 +21,6 @@ AmigosCode: Relational Database and SQL Essentials
 
 AmigosCode: Java Functional Programming
 
+AmigosCode: Git and Github Essentials
+
 
