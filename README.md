@@ -1,25 +1,21 @@
 # Certificates
 ---------------------
 
+### University of Helsinki ###
+MOOC Java Programming I  
+MOOC Java Programming II  
 
-University of Helsinki MOOC: Java Programming I
+### AmigosCode ###
+Getting Started with Java  
+Getting Started With Spring Boot  
+Java Functional Programming  
+Relational Database and SQL Essentials  
+Git and Github Essentials  
 
-University of Helsinki MOOC: Java Programming II
+### Code with Mosh ###
+Ultimate Java Part 1 Fundamentals  
+Ultimate Java Part 2 Object Oriented Programming  
 
 
-Code WIth Mosh: Ultimate Java Part 1 Fundamentals
-
-Code WIth Mosh: Ultimate Java Part 2 Object Oriented Programming
-
-
-AmigosCode: Getting Started with Java
-
-AmigosCode: Getting Started With Spring Boot
-
-AmigosCode: Relational Database and SQL Essentials
-
-AmigosCode: Java Functional Programming
-
-AmigosCode: Git and Github Essentials
 
 
